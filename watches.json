@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "brand": "Rolex Watch",
+    "model": "Submariner",
+    "year": 2021,
+    "price": 10000,
+    "waterResistance": "300 meters"
+  },
+  {
+    "id": 2,
+    "brand": "Omega",
+    "model": "Speedmaster",
+    "year": 2020,
+    "price": 7500,
+    "waterResistance": "50 meters"
+  },
+  {
+    "id": 3,
+    "brand": "TAG Heuer",
+    "model": "Carrera",
+    "year": 2019,
+    "price": 6000,
+    "waterResistance": "100 meters"
+  },
+  {
+    "id": 4,
+    "brand": "Seiko",
+    "model": "Prospex",
+    "year": 2022,
+    "price": 1500,
+    "waterResistance": "200 meters"
+  },
+  {
+    "id": 5,
+    "brand": "Citizen",
+    "model": "Eco-Drive",
+    "year": 2020,
+    "price": 300,
+    "waterResistance": "100 meters"
+  }
+]
